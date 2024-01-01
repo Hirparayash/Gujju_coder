@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hirparayash
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on Full stack web developer.
 - 📫 You can reach me on : hirparatapu@gmail.com
 
 <!---
