@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hirparayash
+- 👋 Hi, I’m @Gujju_Coder
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning web development.
 - 📫 You can reach me on : hirparatapu@gmail.com
